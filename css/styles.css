@@ -79,6 +79,7 @@ img {
 }
 
 .logo-link {
+    display: flex;
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 26px;
